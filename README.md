@@ -1,7 +1,7 @@
 # Spotify-Style Growth Analytics Project
 
 ## Overview
-This project simulates a performance marketing and growth analytics workflow similar to what a Data Scientist would do at Spotify. It analyzes marketing channel performance and measures incremental lift from increased ad spend using experimentation techniques.
+This project simulates a performance marketing and growth analytics workflow . It analyzes marketing channel performance and measures incremental lift from increased ad spend using experimentation techniques.
 
 ## Data
 Synthetic data was generated to mimic real-world marketing behavior:
